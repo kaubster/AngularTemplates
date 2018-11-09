@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+/*
+  Documentation: https: //getbootstrap.com/docs/4.1/getting-started/theming/
+*/
+
+// Required
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+@import "../../node_modules/bootstrap/scss/mixins";
+
+// Your variable overrides
+
+// example:
+/*$body-bg: #00ff21;
+$body-color: #ff0000;*/
+
+// Bootstrap and its default variables
+@import "../../node_modules/bootstrap/scss/bootstrap";
